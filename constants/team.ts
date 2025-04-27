@@ -109,7 +109,7 @@ export const team: {
     title: "Digital Media Marketing",
     members: [
       {
-        name: "Shivam Nautiyal",
+        name: "Shivam Dutt Nautiyal",
         designation: "Digital Media Marketing",
         image: "/team/dummy.webp",
       },
