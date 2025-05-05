@@ -116,7 +116,7 @@ export const team: {
       {
         name: "Khalid Fayaz",
         designation: "Data Scientist",
-        image: "/team/dummy.webp",
+        image: "/team/khalid.jpeg",
       },
     ],
   },
