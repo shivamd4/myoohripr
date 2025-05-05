@@ -64,6 +64,17 @@ const HeroSection = () => {
       />
 
       <div className="flex flex-col gap-y-3 items-center lg:items-start">
+         {/* Marquee at the top */}
+         <Marquee speed={60} gradient={false} className="w-full font-bold text-red-600 text-xl mb-4">
+  <a href="tel:+1234567890" className="flex items-center gap-2 hover:text-red-800">
+    <FiPhoneCall className="text-2xl" />
+    Call Us Now: +1 7148685533
+  </a>&nbsp;  &nbsp; &nbsp;  &nbsp;  -  &nbsp;  &nbsp; &nbsp;  &nbsp; 
+  <a href="tel:+1234567890" className="flex items-center gap-2 hover:text-red-800">
+    <FiPhoneCall className="text-2xl" />
+    +1 7148807279
+  </a>
+</Marquee>
         <p className="sm:text-2xl font-bold">Our Motto</p>
         <motion.h1
           className="text-3xl sm:text-5xl xl:text-7xl text-blue-900 font-bold leading-8 sm:leading-[70px] xl:leading-[100px] text-center lg:text-left"
