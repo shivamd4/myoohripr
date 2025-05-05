@@ -255,7 +255,7 @@ const ContactPage = () => {
             <TabsContent value="california" className="flex flex-col gap-y-2">
               <ContactInformationBox
                 location="2931 Hickory Place, Fullerton, California 92835,United States"
-                phone="+1 714-882-1896"
+                phone="+1 7148685533"
                 emails={["ipr@myoohr.com", "mike@myoohr.com"]}
               />
               <div
@@ -296,7 +296,7 @@ const ContactPage = () => {
             <TabsContent value="virginia" className="flex flex-col gap-y-2">
               <ContactInformationBox
                 location="7297 Lee Highway Falls Church, VA 22042"
-                phone="+1 714-882-1896"
+                phone="+1 7148807279"
                 emails={["ipr@myoohr.com", "matthew@myoohr.com"]}
               />
               <div
