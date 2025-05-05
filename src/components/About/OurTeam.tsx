@@ -174,7 +174,7 @@ const OurTeam = () => {
             <div className="flex flex-col gap-y-4 md:mt-20">
               <TeamCard
                 member={{
-                  name: "Umar",
+                  name: "Khalid Fayaz",
                   designation: "Data Scientist",
                   image: "/team/dummy.webp",
                 }}
