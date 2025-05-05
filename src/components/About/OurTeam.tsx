@@ -176,7 +176,7 @@ const OurTeam = () => {
                 member={{
                   name: "Khalid Fayaz",
                   designation: "Data Scientist",
-                  image: "/team/dummy.webp",
+                  image: "/team/khalid.jpeg",
                 }}
               />
             </div>
